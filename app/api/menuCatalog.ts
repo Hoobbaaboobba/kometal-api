@@ -52,12 +52,12 @@ export const menuCatalog = [
         img: "leadImg",
         metaData: "Свинцовый Прокат купить",
       },
-      {
-        title: "Цинк",
-        link: "tsvetnoi-prokat/zinc",
-        img: "zincImg",
-        metaData: "Цинковый Прокат купить",
-      },
+      // {
+      //   title: "Цинк",
+      //   link: "tsvetnoi-prokat/zinc",
+      //   img: "zincImg",
+      //   metaData: "Цинковый Прокат купить",
+      // },
     ],
   },
   {
