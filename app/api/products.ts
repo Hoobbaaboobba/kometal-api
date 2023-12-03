@@ -10769,7 +10769,6 @@ export const products = [
       "ЭП814А-ВИ",
     ],
     ENGSize: [
-      "0.15mm",
       "0.25mm",
       "0.3mm",
       "0.4mm",
