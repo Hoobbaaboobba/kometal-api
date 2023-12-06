@@ -2,7 +2,7 @@ export const products = [
   // Медь
   {
     label: "Медь",
-    subLabel: "Лента медная",
+    subLabel: ["Лента медная"],
     id: [
       "М0б",
       "М0бТ",
@@ -135,7 +135,7 @@ export const products = [
   },
   {
     label: "Медь",
-    subLabel: "Круг медный",
+    subLabel: ["Круг медный"],
     id: [
       "М0",
       "М00",
@@ -271,7 +271,7 @@ export const products = [
   },
   {
     label: "Медь",
-    subLabel: "Труба медная",
+    subLabel: ["Труба медная"],
     id: [
       "М1",
       "М1М",
@@ -350,7 +350,7 @@ export const products = [
   },
   {
     label: "Медь",
-    subLabel: "Шина медная",
+    subLabel: ["Шина медная"],
     id: [
       "Cu-DHP",
       "Cu-DLP",
@@ -443,7 +443,7 @@ export const products = [
   // Бронза
   {
     label: "Бронза",
-    subLabel: "Круг бронзовый",
+    subLabel: ["Круг бронзовый"],
     id: [
       "БрА10Ж3Мц2",
       "БрА10Ж4Н4Л",
@@ -615,7 +615,7 @@ export const products = [
   },
   {
     label: "Бронза",
-    subLabel: "Лента бронзовая",
+    subLabel: ["Лента бронзовая"],
     id: [
       "БрАМц9-2",
       "БрБ2",
@@ -686,7 +686,7 @@ export const products = [
   },
   {
     label: "Бронза",
-    subLabel: "Шина броновая",
+    subLabel: ["Шина броновая"],
     id: [
       "БрАМц9-2",
       "БрБ2",
@@ -753,7 +753,7 @@ export const products = [
   // Латунь
   {
     label: "Латунь",
-    subLabel: "Круг латунный",
+    subLabel: ["Круг латунный"],
     id: [
       "Л59",
       "Л59М",
@@ -951,7 +951,7 @@ export const products = [
   },
   {
     label: "Латунь",
-    subLabel: "Квадрат латунный",
+    subLabel: ["Квадрат латунный"],
     id: [
       "Л59",
       "Л59М",
@@ -1149,7 +1149,7 @@ export const products = [
   },
   {
     label: "Латунь",
-    subLabel: "Проволока латунная",
+    subLabel: ["Проволока латунная"],
     id: [
       "Л63",
       "Л63М",
@@ -1312,7 +1312,7 @@ export const products = [
   },
   {
     label: "Латунь",
-    subLabel: "Труба латунная",
+    subLabel: ["Труба латунная"],
     id: [
       "Л59",
       "Л59П",
@@ -1521,7 +1521,7 @@ export const products = [
   },
   {
     label: "Латунь",
-    subLabel: "Шестигранник латунный",
+    subLabel: ["Шестигранник латунный"],
     id: [
       "Л59",
       "Л59М",
@@ -1721,7 +1721,7 @@ export const products = [
   // Дюраль
   {
     label: "Дюраль",
-    subLabel: "Труба дюралевая",
+    subLabel: ["Труба дюралевая"],
     id: [
       "В95",
       "В95Б",
@@ -1843,7 +1843,7 @@ export const products = [
   },
   {
     label: "Дюраль",
-    subLabel: "Квадрат дюралевый",
+    subLabel: ["Квадрат дюралевый"],
     id: [
       "В65",
       "В93",
@@ -1976,7 +1976,7 @@ export const products = [
   },
   {
     label: "Дюраль",
-    subLabel: "Лист дюралевый",
+    subLabel: ["Лист дюралевый"],
     id: [
       "В65",
       "В93",
@@ -2109,7 +2109,7 @@ export const products = [
   },
   {
     label: "Дюраль",
-    subLabel: "Круг дюралевый",
+    subLabel: ["Круг дюралевый"],
     id: [
       "В65",
       "В93",
@@ -2284,7 +2284,7 @@ export const products = [
   },
   {
     label: "Дюраль",
-    subLabel: "Проволка дюралевая",
+    subLabel: ["Проволка дюралевая"],
     id: [
       "В65",
       "В93",
@@ -2417,7 +2417,7 @@ export const products = [
   },
   {
     label: "Дюраль",
-    subLabel: "Шестигранник дюралевый",
+    subLabel: ["Шестигранник дюралевый"],
     id: [
       "В65",
       "В93",
@@ -2593,7 +2593,7 @@ export const products = [
   },
   {
     label: "Дюраль",
-    subLabel: "Уголок дюралевый",
+    subLabel: ["Уголок дюралевый"],
     id: [
       "В65",
       "В93",
@@ -3314,7 +3314,7 @@ export const products = [
   },
   {
     label: "Дюраль",
-    subLabel: "Плита дюралевая",
+    subLabel: ["Плита дюралевая"],
     id: [
       "В65",
       "В93",
@@ -3450,7 +3450,7 @@ export const products = [
   },
   {
     label: "Дюраль",
-    subLabel: "Проволка нихромовая",
+    subLabel: ["Проволка нихромовая"],
     id: [
       "GS-40",
       "КЭНВ НХ 1000-0.1",
@@ -3588,7 +3588,7 @@ export const products = [
   },
   {
     label: "Дюраль",
-    subLabel: "Лента дюралевая",
+    subLabel: ["Лента дюралевая"],
     id: [
       "GS-40",
       "КЭНВ НХ 1000-0.1",
@@ -3679,7 +3679,7 @@ export const products = [
   // Алюминий
   {
     label: "Алюминий",
-    subLabel: "Квадрат алюминиевый",
+    subLabel: ["Квадрат алюминиевый"],
     id: [
       "1050",
       "1105",
@@ -3982,7 +3982,7 @@ export const products = [
   },
   {
     label: "Алюминий",
-    subLabel: "Круг алюминиевый",
+    subLabel: ["Круг алюминиевый"],
     id: [
       "1050",
       "1105",
@@ -4296,7 +4296,7 @@ export const products = [
   },
   {
     label: "Алюминий",
-    subLabel: "Лист алюминиевый",
+    subLabel: ["Лист алюминиевый"],
     id: [
       "1050",
       "1050 H111",
@@ -4581,7 +4581,7 @@ export const products = [
   },
   {
     label: "Алюминий",
-    subLabel: "Проволка алюминиевая",
+    subLabel: ["Проволка алюминиевая"],
     id: [
       "1933",
       "А8",
@@ -4655,7 +4655,7 @@ export const products = [
   },
   {
     label: "Алюминий",
-    subLabel: "Труба алюминиевая",
+    subLabel: ["Труба алюминиевая"],
     id: [
       "1050",
       "1105",
@@ -4811,7 +4811,7 @@ export const products = [
   },
   {
     label: "Алюминий",
-    subLabel: "Шестигранник алюминиевый",
+    subLabel: ["Шестигранник алюминиевый"],
     id: [
       "1050",
       "1105",
@@ -5118,7 +5118,7 @@ export const products = [
   },
   {
     label: "Алюминий",
-    subLabel: "Уголок алюминиевый",
+    subLabel: ["Уголок алюминиевый"],
     id: [
       "1050",
       "1105",
@@ -5842,7 +5842,7 @@ export const products = [
   },
   {
     label: "Алюминий",
-    subLabel: "Плита алюминиевая",
+    subLabel: ["Плита алюминиевая"],
     id: [
       "1050",
       "1105",
@@ -6128,7 +6128,7 @@ export const products = [
   },
   {
     label: "Алюминий",
-    subLabel: "Шина алюминиевая",
+    subLabel: ["Шина алюминиевая"],
     id: [
       "1050 H111",
       "1050 H18",
@@ -6445,7 +6445,7 @@ export const products = [
   },
   {
     label: "Алюминий",
-    subLabel: "Двутавр алюминиевый",
+    subLabel: ["Двутавр алюминиевый"],
     id: [
       "1050",
       "1105",
@@ -6625,7 +6625,7 @@ export const products = [
   },
   {
     label: "Алюминий",
-    subLabel: "Чушка алюминиевый",
+    subLabel: ["Чушка алюминиевый"],
     id: [""],
     ENGSize: [""],
     description:
@@ -6643,7 +6643,7 @@ export const products = [
   },
   {
     label: "Алюминий",
-    subLabel: "Полоса алюминиевая",
+    subLabel: ["Полоса алюминиевая"],
     id: [""],
     ENGSize: [""],
     description:
@@ -6662,7 +6662,7 @@ export const products = [
   // Олово
   {
     label: "Олово",
-    subLabel: "Анод оловянный",
+    subLabel: ["Анод оловянный"],
     id: ["О1", "О1пч", "О2", "О3", "О4", "ОВЧ000"],
     ENGSize: ["5mm", "6mm", "8mm", "10mm", "12mm", "14mm", "20mm"],
     description: "",
@@ -6679,7 +6679,7 @@ export const products = [
   },
   {
     label: "Олово",
-    subLabel: "Припой оловянный",
+    subLabel: ["Припой оловянный"],
     id: [""],
     ENGSize: [""],
     description: "",
@@ -6696,7 +6696,7 @@ export const products = [
   },
   {
     label: "Олово",
-    subLabel: "Пруток оловянный",
+    subLabel: ["Пруток оловянный"],
     id: [""],
     ENGSize: [""],
     description: "",
@@ -6713,7 +6713,7 @@ export const products = [
   },
   {
     label: "Олово",
-    subLabel: "Проволока оловянная",
+    subLabel: ["Проволока оловянная"],
     id: [""],
     ENGSize: [""],
     description:
@@ -6733,7 +6733,7 @@ export const products = [
   // Свинец
   {
     label: "Свинец",
-    subLabel: "Лист свинцовый",
+    subLabel: ["Лист свинцовый"],
     id: ["С0", "С1", "С1С", "С2", "С2С", "С3", "С3С"],
     ENGSize: [
       "0.2mm",
@@ -6781,7 +6781,7 @@ export const products = [
   },
   {
     label: "Свинец",
-    subLabel: "Круг свинцовый",
+    subLabel: ["Круг свинцовый"],
     id: [""],
     ENGSize: [""],
     description: "",
@@ -6798,7 +6798,7 @@ export const products = [
   },
   {
     label: "Свинец",
-    subLabel: "Шестигранник свинцовый",
+    subLabel: ["Шестигранник свинцовый"],
     id: [""],
     ENGSize: [""],
     description: "",
@@ -6816,7 +6816,7 @@ export const products = [
   },
   {
     label: "Свинец",
-    subLabel: "Чушка свинцовая",
+    subLabel: ["Чушка свинцовая"],
     id: [""],
     ENGSize: [""],
     description: "",
@@ -6833,7 +6833,7 @@ export const products = [
   },
   {
     label: "Свинец",
-    subLabel: "Припой свинцовый",
+    subLabel: ["Припой свинцовый"],
     id: [""],
     ENGSize: [""],
     description: "",
@@ -6850,7 +6850,7 @@ export const products = [
   },
   {
     label: "Свинец",
-    subLabel: "Роль свинцовая",
+    subLabel: ["Роль свинцовая"],
     id: ["С1", "С2"],
     ENGSize: [
       "1mm",
@@ -6880,7 +6880,7 @@ export const products = [
   },
   {
     label: "Свинец",
-    subLabel: "Анод свинцовый",
+    subLabel: ["Анод свинцовый"],
     id: [""],
     ENGSize: [""],
     description: "",
@@ -6897,7 +6897,7 @@ export const products = [
   },
   {
     label: "Свинец",
-    subLabel: "Труба свинцовая",
+    subLabel: ["Труба свинцовая"],
     id: [""],
     ENGSize: [""],
     description: "",
@@ -6915,7 +6915,7 @@ export const products = [
   // Оцинкованная сталь
   {
     label: "Оцинкованная сталь",
-    subLabel: "Лента оцинкованная",
+    subLabel: ["Лента оцинкованная"],
     id: ["08кп", "08пс", "Ст1пс"],
     ENGSize: [
       "0.5mm",
@@ -6987,7 +6987,7 @@ export const products = [
   },
   {
     label: "Оцинкованная сталь",
-    subLabel: "Лист оцинкованный",
+    subLabel: ["Лист оцинкованный"],
     id: [
       "05кп",
       "08кп",
@@ -7090,7 +7090,7 @@ export const products = [
   },
   {
     label: "Оцинкованная сталь",
-    subLabel: "Круг оцинкованный",
+    subLabel: ["Круг оцинкованный"],
     id: [
       "09Г2С",
       "20Х13",
@@ -7225,7 +7225,7 @@ export const products = [
   },
   {
     label: "Оцинкованная сталь",
-    subLabel: "Уголок оцинкованный",
+    subLabel: ["Уголок оцинкованный"],
     id: [
       "08кп",
       "08пс",
@@ -7302,7 +7302,7 @@ export const products = [
   },
   {
     label: "Оцинкованная сталь",
-    subLabel: "Балка оцинкованная",
+    subLabel: ["Балка оцинкованная"],
     id: ["Ст3", "С245/255", "С255"],
     ENGSize: [
       "12mm",
@@ -7334,7 +7334,7 @@ export const products = [
   },
   {
     label: "Оцинкованная сталь",
-    subLabel: "Сетка оцинкованная сварная",
+    subLabel: ["Сетка оцинкованная сварная"],
     id: [
       "08пс",
       "Ст10",
@@ -7426,7 +7426,7 @@ export const products = [
   },
   {
     label: "Оцинкованная сталь",
-    subLabel: "Сетка оцинкованная тканая",
+    subLabel: ["Сетка оцинкованная тканая"],
     id: [
       "08пс",
       "Ст10",
@@ -7518,7 +7518,7 @@ export const products = [
   },
   {
     label: "Оцинкованная сталь",
-    subLabel: "Сетка оцинкованная рабица",
+    subLabel: ["Сетка оцинкованная рабица"],
     id: [
       "08пс",
       "Ст10",
@@ -7610,7 +7610,7 @@ export const products = [
   },
   {
     label: "Оцинкованная сталь",
-    subLabel: "Труба ЭСВ оцинкованная",
+    subLabel: ["Труба ЭСВ оцинкованная"],
     id: ["ЭСВ"],
     ENGSize: [
       "51mm",
@@ -7643,7 +7643,7 @@ export const products = [
   // Титан
   {
     label: "Титан",
-    subLabel: "Труба титановая",
+    subLabel: ["Труба титановая"],
     id: [
       "14",
       "2В",
@@ -7780,7 +7780,7 @@ export const products = [
   },
   {
     label: "Титан",
-    subLabel: "Карточка титановая",
+    subLabel: ["Карточка титановая"],
     id: [
       "2В",
       "3М",
@@ -7884,7 +7884,7 @@ export const products = [
   },
   {
     label: "Титан",
-    subLabel: "Лист титановый",
+    subLabel: ["Лист титановый"],
     id: [
       "14",
       "19",
@@ -8029,7 +8029,7 @@ export const products = [
   },
   {
     label: "Титан",
-    subLabel: "Круг титановый",
+    subLabel: ["Круг титановый"],
     id: [
       "14",
       "19",
@@ -8163,7 +8163,7 @@ export const products = [
   },
   {
     label: "Титан",
-    subLabel: "Плита титановая",
+    subLabel: ["Плита титановая"],
     id: [
       "19",
       "27",
@@ -8261,7 +8261,7 @@ export const products = [
   },
   {
     label: "Титан",
-    subLabel: "Шестигранник титановый",
+    subLabel: ["Шестигранник титановый"],
     id: [
       "19",
       "27",
@@ -8360,7 +8360,7 @@ export const products = [
   },
   {
     label: "Титан",
-    subLabel: "Проволока титановая",
+    subLabel: ["Проволока титановая"],
     id: [
       "2В",
       "3В",
@@ -8463,7 +8463,7 @@ export const products = [
   },
   {
     label: "Титан",
-    subLabel: "Чушка титановая",
+    subLabel: ["Чушка титановая"],
     id: [
       "2В",
       "3В",
@@ -8565,7 +8565,7 @@ export const products = [
   },
   {
     label: "Титан",
-    subLabel: "Квадрат титановый",
+    subLabel: ["Квадрат титановый"],
     id: [
       "14",
       "19",
@@ -8699,7 +8699,7 @@ export const products = [
   // Метизы
   {
     label: "Калибровка",
-    subLabel: "Круг калиброванный",
+    subLabel: ["Круг калиброванный"],
     id: [
       "14",
       "19",
@@ -8834,7 +8834,7 @@ export const products = [
   },
   {
     label: "Лента стальная",
-    subLabel: "Лента холоднокатаная",
+    subLabel: ["Лента холоднокатаная"],
     id: ["08пс", "Ст10", "Ст20", "Ст3", "Ст35", "Ст45"],
     ENGSize: [
       "0.05mm",
@@ -8939,7 +8939,7 @@ export const products = [
   },
   {
     label: "Судовая сталь",
-    subLabel: "Лист г/к нормальной прочности",
+    subLabel: ["Лист г/к нормальной прочности"],
     id: ["РС A", "РС B"],
     ENGSize: [
       "4mm",
@@ -8970,7 +8970,7 @@ export const products = [
   },
   {
     label: "Судовая сталь",
-    subLabel: "Лист г/к повышенной прочности",
+    subLabel: ["Лист г/к повышенной прочности"],
     id: ["РС D32"],
     ENGSize: [
       "4mm",
@@ -9001,7 +9001,7 @@ export const products = [
   },
   {
     label: "Черный металл",
-    subLabel: "Поковка",
+    subLabel: ["Поковка"],
     id: ["30ХГСА", "30ХМА", "40Х", "Ст09Г2С", "Ст20", "Ст45"],
     ENGSize: [
       "350mm",
@@ -9037,7 +9037,7 @@ export const products = [
   },
   {
     label: "Лента стальная",
-    subLabel: "Лента металлическая",
+    subLabel: ["Лента металлическая"],
     id: ["08пс", "Ст10", "Ст20", "Ст3", "Ст35", "Ст45"],
     ENGSize: [
       "0.05mm",
@@ -9141,7 +9141,7 @@ export const products = [
   },
   {
     label: "Лента стальная",
-    subLabel: "Лента колючая",
+    subLabel: ["Лента колючая"],
     id: ["08пс", "Ст10", "Ст20", "Ст3", "Ст35", "Ст45"],
     ENGSize: [
       "0.05mm",
@@ -9245,7 +9245,7 @@ export const products = [
   },
   {
     label: "Лента стальная",
-    subLabel: "Лента упаковочная",
+    subLabel: ["Лента упаковочная"],
     id: ["08пс", "Ст10", "Ст20", "Ст3", "Ст35", "Ст45"],
     ENGSize: [
       "0.05mm",
@@ -9349,7 +9349,7 @@ export const products = [
   },
   {
     label: "Провролока",
-    subLabel: "Проволока вязальная",
+    subLabel: ["Проволока вязальная"],
     id: [
       "05кп",
       "08кп",
@@ -9435,7 +9435,7 @@ export const products = [
   },
   {
     label: "Провролока",
-    subLabel: "Проволока нихромовая",
+    subLabel: ["Проволока нихромовая"],
     id: [
       "05кп",
       "08кп",
@@ -9522,7 +9522,7 @@ export const products = [
   },
   {
     label: "Провролока",
-    subLabel: "Проволока колючая",
+    subLabel: ["Проволока колючая"],
     id: [
       "05кп",
       "08кп",
@@ -9608,7 +9608,7 @@ export const products = [
   },
   {
     label: "Провролока",
-    subLabel: "Проволока сварочная",
+    subLabel: ["Проволока сварочная"],
     id: [
       "05кп",
       "08кп",
@@ -9694,7 +9694,7 @@ export const products = [
   },
   {
     label: "Провролока",
-    subLabel: "Проволока стальная",
+    subLabel: ["Проволока стальная"],
     id: [
       "05кп",
       "08кп",
@@ -9780,8 +9780,9 @@ export const products = [
   },
   {
     label: "Болты и Гайки",
-    subLabel:
+    subLabel: [
       "Шпилька для фланцевых соединений атомных энергетических установок",
+    ],
     id: [""],
     ENGSize: [""],
     description:
@@ -9800,8 +9801,9 @@ export const products = [
   },
   {
     label: "Болты и Гайки",
-    subLabel:
+    subLabel: [
       "Шпилька резьбовая с ввинчиваемым концом длиной 1d, класс точности В",
+    ],
     id: [""],
     ENGSize: [""],
     description:
@@ -9820,7 +9822,7 @@ export const products = [
   },
   {
     label: "Болты и Гайки",
-    subLabel: "Шпилька с ввинчиваемым концом длиной 1.25d , класс точности В",
+    subLabel: ["Шпилька с ввинчиваемым концом длиной 1.25d , класс точности В"],
     id: [""],
     ENGSize: [""],
     description:
@@ -9839,7 +9841,7 @@ export const products = [
   },
   {
     label: "Болты и Гайки",
-    subLabel: "Шпилька с ввинчиваемым концом длиной 1.25d, класс точности А",
+    subLabel: ["Шпилька с ввинчиваемым концом длиной 1.25d, класс точности А"],
     id: [""],
     ENGSize: [""],
     description:
@@ -9858,7 +9860,7 @@ export const products = [
   },
   {
     label: "Болты и Гайки",
-    subLabel: "Шпилька с ввинчиваемым концом длиной 1.6d, класс точности В",
+    subLabel: ["Шпилька с ввинчиваемым концом длиной 1.6d, класс точности В"],
     id: [""],
     ENGSize: [""],
     description:
@@ -9877,7 +9879,7 @@ export const products = [
   },
   {
     label: "Болты и Гайки",
-    subLabel: "Шпильки с ввинчиваемым концом 1.6d, класс точности А",
+    subLabel: ["Шпильки с ввинчиваемым концом 1.6d, класс точности А"],
     id: [""],
     ENGSize: [""],
     description:
@@ -9896,7 +9898,7 @@ export const products = [
   },
   {
     label: "Болты и Гайки",
-    subLabel: "Шпилька с ввинчиваемым концом длиной 2d, класс точности В",
+    subLabel: ["Шпилька с ввинчиваемым концом длиной 2d, класс точности В"],
     id: [""],
     ENGSize: [""],
     description:
@@ -9915,7 +9917,7 @@ export const products = [
   },
   {
     label: "Болты и Гайки",
-    subLabel: "Шпилька с ввинчиваемым концом длиной 2d, класс точности А",
+    subLabel: ["Шпилька с ввинчиваемым концом длиной 2d, класс точности А"],
     id: [""],
     ENGSize: [""],
     description:
@@ -9934,7 +9936,7 @@ export const products = [
   },
   {
     label: "Болты и Гайки",
-    subLabel: "Шпилька с ввинчиваемым концом длиной 2.5d , класс точности В",
+    subLabel: ["Шпилька с ввинчиваемым концом длиной 2.5d , класс точности В"],
     id: [""],
     ENGSize: [""],
     description:
@@ -9953,7 +9955,7 @@ export const products = [
   },
   {
     label: "Болты и Гайки",
-    subLabel: "Шпилька с ввинчиваемым концом длиной 2.5d , класс точности A",
+    subLabel: ["Шпилька с ввинчиваемым концом длиной 2.5d , класс точности A"],
     id: [""],
     ENGSize: [""],
     description:
@@ -9972,7 +9974,7 @@ export const products = [
   },
   {
     label: "Болты и Гайки",
-    subLabel: "Шпилька для деталей с гладкими отверстиями, класс точности В",
+    subLabel: ["Шпилька для деталей с гладкими отверстиями, класс точности В"],
     id: [""],
     ENGSize: [""],
     description:
@@ -9991,7 +9993,7 @@ export const products = [
   },
   {
     label: "Болты и Гайки",
-    subLabel: "Шпилька для деталей с гладкими отверстиями, класс точности А",
+    subLabel: ["Шпилька для деталей с гладкими отверстиями, класс точности А"],
     id: [""],
     ENGSize: [""],
     description:
@@ -10010,7 +10012,7 @@ export const products = [
   },
   {
     label: "Болты и Гайки",
-    subLabel: "Шпилька с ввинчиваемым концом длиной 1d , класс точности А",
+    subLabel: ["Шпилька с ввинчиваемым концом длиной 1d , класс точности А"],
     id: [""],
     ENGSize: [""],
     description:
@@ -10029,7 +10031,7 @@ export const products = [
   },
   {
     label: "Болты и Гайки",
-    subLabel: "Шпильки для фланцевых соединений",
+    subLabel: ["Шпильки для фланцевых соединений"],
     id: [""],
     ENGSize: [""],
     description:
@@ -10048,7 +10050,7 @@ export const products = [
   },
   {
     label: "Болты и Гайки",
-    subLabel: "Шпильки упорные",
+    subLabel: ["Шпильки упорные"],
     id: [""],
     ENGSize: [""],
     description:
@@ -10066,7 +10068,7 @@ export const products = [
   },
   {
     label: "Болты и Гайки",
-    subLabel: "Шпилька с ввинчиваемым концом для фланцевых соединений",
+    subLabel: ["Шпилька с ввинчиваемым концом для фланцевых соединений"],
     id: [""],
     ENGSize: [""],
     description:
@@ -10085,7 +10087,7 @@ export const products = [
   },
   {
     label: "Болты и Гайки",
-    subLabel: "Гайки и болты общепромышленные",
+    subLabel: ["Гайки и болты общепромышленные"],
     id: [""],
     ENGSize: [""],
     description:
@@ -10104,7 +10106,7 @@ export const products = [
   },
   {
     label: "Болты и Гайки",
-    subLabel: "Гайки и шпильки оцинкованные",
+    subLabel: ["Гайки и шпильки оцинкованные"],
     id: [""],
     ENGSize: [""],
     description:
@@ -10124,7 +10126,7 @@ export const products = [
   // Прецензионные сплавы
   {
     label: "Нихром",
-    subLabel: "Проволока нихром",
+    subLabel: ["Проволока нихром"],
     id: [
       "Х15Н60",
       "Х15Н60-Н",
@@ -10183,7 +10185,7 @@ export const products = [
   },
   {
     label: "Нихром",
-    subLabel: "Круг нихром",
+    subLabel: ["Круг нихром"],
     id: [
       "Х15Н60",
       "Х15Н60-Н",
@@ -10316,7 +10318,7 @@ export const products = [
   },
   {
     label: "Нихром",
-    subLabel: "Лента нихром",
+    subLabel: ["Лента нихром"],
     id: [
       "Х15Н60mm",
       "Х15Н60-Нmm",
@@ -10375,7 +10377,7 @@ export const products = [
   },
   {
     label: "Нихром",
-    subLabel: "Проволока фехраль",
+    subLabel: ["Проволока фехраль"],
     id: [""],
     ENGSize: [""],
     description: "",
@@ -10392,7 +10394,7 @@ export const products = [
   },
   {
     label: "Пермаллой",
-    subLabel: "Лист Пермаллой",
+    subLabel: ["Лист Пермаллой"],
     id: [""],
     ENGSize: [""],
     description: "",
@@ -10409,7 +10411,7 @@ export const products = [
   },
   {
     label: "Пермаллой",
-    subLabel: "Лента Пермаллой",
+    subLabel: ["Лента Пермаллой"],
     id: [""],
     ENGSize: [""],
     description: "",
@@ -10426,7 +10428,7 @@ export const products = [
   },
   {
     label: "Пермаллой",
-    subLabel: "Круг Пермаллой",
+    subLabel: ["Круг Пермаллой"],
     id: [""],
     ENGSize: [""],
     description: "",
@@ -10443,7 +10445,7 @@ export const products = [
   },
   {
     label: "Пермаллой",
-    subLabel: "Проволока Пермаллой",
+    subLabel: ["Проволока Пермаллой"],
     id: [""],
     ENGSize: [""],
     description: "",
@@ -10461,7 +10463,7 @@ export const products = [
   },
   {
     label: "Пермаллой",
-    subLabel: "Труба Пермаллой",
+    subLabel: ["Труба Пермаллой"],
     id: [""],
     ENGSize: [""],
     description: "",
@@ -10479,7 +10481,7 @@ export const products = [
   // Нержавейки
   {
     label: "Нержавейки",
-    subLabel: "Лист нержавеющий",
+    subLabel: ["Лист нержавеющий"],
     id: [
       "03Х17Н14М2",
       "03Х17Н14М3",
@@ -10906,7 +10908,7 @@ export const products = [
   },
   {
     label: "Нержавейки",
-    subLabel: "Лента нержавеющая",
+    subLabel: ["Лента нержавеющая"],
     id: [
       "03Х16Н15М3",
       "03Х17Н14М3",
@@ -11022,7 +11024,7 @@ export const products = [
   },
   {
     label: "Нержавейки",
-    subLabel: "Уголок нержавеющий",
+    subLabel: ["Уголок нержавеющий"],
     id: [
       "08Х18Н10",
       "12Х18Н10Т",
@@ -11076,7 +11078,7 @@ export const products = [
   },
   {
     label: "Нержавейки",
-    subLabel: "Трубы нержавеющие",
+    subLabel: ["Трубы нержавеющие"],
     id: [
       "02Х18Н11",
       "03Х12Н10МТР",
@@ -11447,7 +11449,7 @@ export const products = [
   },
   {
     label: "Нержавейки",
-    subLabel: "Шестигранник нержавеющий",
+    subLabel: ["Шестигранник нержавеющий"],
     id: [
       "03Х18Н11",
       "03ХН28МДТ",
@@ -11611,7 +11613,7 @@ export const products = [
   },
   {
     label: "Нержавейки",
-    subLabel: "Круг нержавеющий",
+    subLabel: ["Круг нержавеющий"],
     id: [
       "02Х25Н22АМ2",
       "03Х11Н10М2Т",
@@ -12279,7 +12281,7 @@ export const products = [
   },
   {
     label: "Нержавейки",
-    subLabel: "Полоса нержавеющая",
+    subLabel: ["Полоса нержавеющая"],
     id: [
       "03Х13",
       "03Х16Н15М3",
@@ -12538,7 +12540,7 @@ export const products = [
   },
   {
     label: "Нержавейки",
-    subLabel: "Сетка нержавеющая",
+    subLabel: ["Сетка нержавеющая"],
     id: ["12Х17Г9АН4", "AISI 304", "AISI 304L", "AISI 321"],
     ENGSize: [
       "0.025mm",
@@ -12628,7 +12630,7 @@ export const products = [
   // Черный металл
   {
     label: "Арматура",
-    subLabel: "Стальная арматура A500C А3",
+    subLabel: ["Стальная арматура A500C А3"],
     id: [""],
     ENGSize: [""],
     description: "",
@@ -12646,7 +12648,7 @@ export const products = [
   },
   {
     label: "Арматура",
-    subLabel: "Арматура гладкая А1 катанка",
+    subLabel: ["Арматура гладкая А1 катанка"],
     id: [""],
     ENGSize: [""],
     description: "",
@@ -12664,7 +12666,7 @@ export const products = [
   },
   {
     label: "Арматура",
-    subLabel: "Арматура А400 класс А3",
+    subLabel: ["Арматура А400 класс А3"],
     id: [""],
     ENGSize: [""],
     description: "",
@@ -12682,7 +12684,7 @@ export const products = [
   },
   {
     label: "Черный металл",
-    subLabel: "Стеклопластиковая композитная арматура",
+    subLabel: ["Стеклопластиковая композитная арматура"],
     id: [""],
     ENGSize: [""],
     description:
@@ -12701,7 +12703,7 @@ export const products = [
   },
   {
     label: "Черный металл",
-    subLabel: "Уголок  неравнополочный",
+    subLabel: ["Уголок  неравнополочный"],
     id: ["Ст3", "09Г2С", "С255", "С345", "С355"],
     ENGSize: ["63mm", "75mm", "100mm", "125mm", "140mm", "160mm", "200mm"],
     description:
@@ -12720,7 +12722,7 @@ export const products = [
   },
   {
     label: "Черный металл",
-    subLabel: "Уголок  равнополочный",
+    subLabel: ["Уголок  равнополочный"],
     id: ["Ст3", "С255", "С345", "С355", "Ст09Г2С", "Ст09Г2С-12", "Ст09Г2С-15"],
     ENGSize: [
       "25mm",
@@ -12760,7 +12762,7 @@ export const products = [
   },
   {
     label: "Черный металл",
-    subLabel: "Уголок равнополочный низколегированный",
+    subLabel: ["Уголок равнополочный низколегированный"],
     id: ["С345", "С355", "Ст09Г2С", "Ст09Г2С-12", "Ст09Г2С-15"],
     ENGSize: [
       "25mm",
@@ -12797,7 +12799,7 @@ export const products = [
   },
   {
     label: "Черный металл",
-    subLabel: "Уголок стальной нержавеющий",
+    subLabel: ["Уголок стальной нержавеющий"],
     id: ["AISI 304 (08Х18Н10)", "AISI 316L", "AISI 321"],
     ENGSize: [
       "20mm",
@@ -12829,7 +12831,7 @@ export const products = [
   },
   // {
   //   label: "Черный металл",
-  //   subLabel: "Уголок стальной нержавеющий",
+  //   subLabel: ["Уголок стальной нержавеющий"],
   //   id: ["AISI 304 (08Х18Н10)", "AISI 316L", "AISI 321"],
   //   ENGSize: [
   //     "20mm",
@@ -12861,7 +12863,7 @@ export const products = [
   // },
   {
     label: "Черный металл",
-    subLabel: "Полоса г/к",
+    subLabel: ["Полоса г/к"],
     id: ["Ст3", "Ст3 пс/сп", "Ст1-3пс/сп"],
     ENGSize: [
       "14mm",
@@ -12896,7 +12898,7 @@ export const products = [
   },
   {
     label: "Черный металл",
-    subLabel: "Квадрат",
+    subLabel: ["Квадрат"],
     id: ["Ст3", "Ст3 пс/сп", "Ст1-3пс/сп"],
     ENGSize: [
       "7mm",
@@ -12930,7 +12932,7 @@ export const products = [
   },
   {
     label: "Черный металл",
-    subLabel: "Труба ВГП",
+    subLabel: ["Труба ВГП"],
     id: ["ВГП"],
     ENGSize: [
       "15mm",
@@ -13065,7 +13067,7 @@ export const products = [
   },
   {
     label: "Черный металл",
-    subLabel: "Труба г/д ГОСТ 8732-78",
+    subLabel: ["Труба г/д ГОСТ 8732-78"],
     id: ["г/д ГОСТ 8732-78"],
     ENGSize: [
       "51mm",
@@ -13097,7 +13099,7 @@ export const products = [
   },
   {
     label: "Черный металл",
-    subLabel: "Труба х/д ГОСТ 8732-75",
+    subLabel: ["Труба х/д ГОСТ 8732-75"],
     id: ["х/д ГОСТ 8732-75"],
     ENGSize: [
       "51mm",
@@ -13129,7 +13131,7 @@ export const products = [
   },
   {
     label: "Черный металл",
-    subLabel: "Труба э/с ГОСТ 10704-91",
+    subLabel: ["Труба э/с ГОСТ 10704-91"],
     id: ["э/с ГОСТ 10704-91"],
     ENGSize: [
       "51mm",
@@ -13161,7 +13163,7 @@ export const products = [
   },
   {
     label: "Черный металл",
-    subLabel: "Трубы оцинкованные",
+    subLabel: ["Трубы оцинкованные"],
     id: ["Круглые оцинкованные трубы", "Профильные оцинкованные трубы"],
     ENGSize: [
       "51mm",
@@ -13192,7 +13194,7 @@ export const products = [
   },
   {
     label: "Черный металл",
-    subLabel: "Круг горячекатаный",
+    subLabel: ["Круг горячекатаный"],
     id: [
       "Ст3",
       "09Г2С",
@@ -13311,7 +13313,7 @@ export const products = [
   },
   {
     label: "Черный металл",
-    subLabel: "Круг калиброванный",
+    subLabel: ["Круг калиброванный"],
     id: ["40Х", "А-12", "Ст10", "Ст20", "Ст35", "Ст45"],
     ENGSize: [
       "3mm",
@@ -13374,7 +13376,7 @@ export const products = [
   },
   {
     label: "Черный металл",
-    subLabel: "Круг горячекатаный конструкционный",
+    subLabel: ["Круг горячекатаный конструкционный"],
     id: [
       "09Г2С",
       "15Х",
@@ -13463,7 +13465,7 @@ export const products = [
   },
   {
     label: "Черный металл",
-    subLabel: "Круг инструментальный углеродистый и легированный",
+    subLabel: ["Круг инструментальный углеродистый и легированный"],
     id: ["9ХС", "У8А", "ЭК-80Ш"],
     ENGSize: [
       "10mm",
@@ -13520,7 +13522,7 @@ export const products = [
   },
   {
     label: "Черный металл",
-    subLabel: "Круг нержавеющий безникелевый жаропрочный",
+    subLabel: ["Круг нержавеющий безникелевый жаропрочный"],
     id: [
       "20Х13",
       "30Х13",
@@ -13607,7 +13609,7 @@ export const products = [
   },
   {
     label: "Черный металл",
-    subLabel: "Круг нержавеющий никельсодержащий",
+    subLabel: ["Круг нержавеющий никельсодержащий"],
     id: [
       "05Х12Н9М2С3М",
       "06ХН28МДТ",
@@ -13714,7 +13716,7 @@ export const products = [
   },
   {
     label: "Черный металл",
-    subLabel: "Круг оцинкованный",
+    subLabel: ["Круг оцинкованный"],
     id: ["Ст3"],
     ENGSize: ["8mm", "10mm", "12mm", "14mm", "16mm", "18mm", "20mm"],
     description:
@@ -13732,7 +13734,7 @@ export const products = [
   },
   {
     label: "Черный металл",
-    subLabel: "Круг горячекатаный никелевый",
+    subLabel: ["Круг горячекатаный никелевый"],
     id: ["12Х2Н4А", "12ХН3А", "20Х2Н4А", "40ХН", "40ХН2МА"],
     ENGSize: [
       "20mm",
@@ -13786,7 +13788,7 @@ export const products = [
   },
   {
     label: "Черный металл",
-    subLabel: "Балка",
+    subLabel: ["Балка"],
     id: ["Ст3", "С245/255", "С255"],
     ENGSize: [
       "12mm",
@@ -13819,7 +13821,7 @@ export const products = [
   },
   {
     label: "Черный металл",
-    subLabel: "Швеллер 5 П",
+    subLabel: ["Швеллер 5 П"],
     // "Швеллер 5 У",
     // "Швеллер 6.5 П",
     // "Швеллер 6.5 У",
@@ -13855,7 +13857,7 @@ export const products = [
   },
   {
     label: "Черный металл",
-    subLabel: "Швеллер низколегированный",
+    subLabel: ["Швеллер низколегированный"],
     id: ["09Г2С", "09Г2С-12", "09Г2С-14", "09Г2С-15", "С345", "С355"],
     ENGSize: [
       "8mm",
@@ -13886,7 +13888,7 @@ export const products = [
   },
   {
     label: "Черный металл",
-    subLabel: "Швеллер гнутый 60x32x2.5",
+    subLabel: ["Швеллер гнутый 60x32x2.5"],
     // "Швеллер гнутый 60x32x4",
     // "Швеллер гнутый 80x32x4",
     // "Швеллер гнутый 80x50x4",
@@ -13925,7 +13927,7 @@ export const products = [
   // Трубопроводная арматура
   {
     label: "Трубопроводная арматура",
-    subLabel: "Запорная арматура",
+    subLabel: ["Запорная арматура"],
     id: ["25Л", "AISI 316", "GG25", "КЧ 30-6 Ф", "ЛС59-1", "ЛЦ40Сд", "Ст20"],
     ENGSize: [
       "17.2mm",
@@ -13958,7 +13960,7 @@ export const products = [
   },
   {
     label: "Трубопроводная арматура",
-    subLabel: "Клапаны обратные",
+    subLabel: ["Клапаны обратные"],
     id: ["25Л", "AISI 316", "GG25", "КЧ 30-6 Ф", "ЛС59-1", "ЛЦ40Сд", "Ст20"],
     ENGSize: [
       "17.2mm",
@@ -13991,7 +13993,7 @@ export const products = [
   },
   {
     label: "Трубопроводная арматура",
-    subLabel: "Клапаны предохранительные",
+    subLabel: ["Клапаны предохранительные"],
     id: ["25Л", "AISI 316", "GG25", "КЧ 30-6 Ф", "ЛС59-1", "ЛЦ40Сд", "Ст20"],
     ENGSize: [
       "17.2mm",
@@ -14024,7 +14026,7 @@ export const products = [
   },
   {
     label: "Трубопроводная арматура",
-    subLabel: "Клапаны регулирующие",
+    subLabel: ["Клапаны регулирующие"],
     id: ["25Л", "AISI 316", "GG25", "КЧ 30-6 Ф", "ЛС59-1", "ЛЦ40Сд", "Ст20"],
     ENGSize: [
       "17.2mm",
@@ -14057,7 +14059,7 @@ export const products = [
   },
   {
     label: "Трубопроводная арматура",
-    subLabel: "Клапаны продувки",
+    subLabel: ["Клапаны продувки"],
     id: ["25Л", "AISI 316", "GG25", "КЧ 30-6 Ф", "ЛС59-1", "ЛЦ40Сд", "Ст20"],
     ENGSize: [
       "17.2mm",
@@ -14090,7 +14092,7 @@ export const products = [
   },
   {
     label: "Трубопроводная арматура",
-    subLabel: "Клапаны защиты",
+    subLabel: ["Клапаны защиты"],
     id: ["25Л", "AISI 316", "GG25", "КЧ 30-6 Ф", "ЛС59-1", "ЛЦ40Сд", "Ст20"],
     ENGSize: [
       "17.2mm",
