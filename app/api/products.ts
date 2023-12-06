@@ -13058,7 +13058,7 @@ export const products = [
     variety: "list-gk",
     amount: "",
     isInStock: "Имеется в наличии",
-    img: "armatura",
+    img: "listNershav",
     price: "от 50000р тн",
     title:
       "Арматура А400 класс А3 по цене от 50000р тн., купить оптом и в розницу в",
