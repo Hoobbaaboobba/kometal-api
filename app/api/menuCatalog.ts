@@ -52,12 +52,6 @@ export const menuCatalog = [
         img: "leadImg",
         metaData: "Свинцовый Прокат купить",
       },
-      // {
-      //   title: "Цинк",
-      //   link: "tsvetnoi-prokat/zinc",
-      //   img: "zincImg",
-      //   metaData: "Цинковый Прокат купить",
-      // },
     ],
   },
   {
@@ -156,6 +150,30 @@ export const menuCatalog = [
         img: "zincImg",
         metaData: "Цинковый Прокат купить",
       },
+      {
+        title: "Лента",
+        link: "cherniy-prokat/lenta-steel",
+        img: "provolokaSteel",
+        metaData: "Прокат",
+      },
+      {
+        title: "Лист",
+        link: "cherniy-prokat/list",
+        img: "provolokaSteel",
+        metaData: "Прокат",
+      },
+      {
+        title: "Судовая сталь",
+        link: "cherniy-prokat/sudovaya_stal",
+        img: "provolokaSteel",
+        metaData: "Прокат",
+      },
+      {
+        title: "Поковки",
+        link: "cherniy-prokat/pokovky",
+        img: "provolokaSteel",
+        metaData: "Прокат",
+      },
     ],
   },
   {
@@ -212,12 +230,12 @@ export const menuCatalog = [
         img: "cornerNershavCatalog",
         metaData: "Прокат",
       },
-      {
-        title: "Квадрат",
-        link: "nershav-prokat/square-nershav",
-        img: "squareNershavCatalog",
-        metaData: "Прокат",
-      },
+      // {
+      //   title: "Квадрат",
+      //   link: "nershav-prokat/square-nershav",
+      //   img: "squareNershavCatalog",
+      //   metaData: "Прокат",
+      // },
       {
         title: "Шестигранник",
         link: "nershav-prokat/hexagon-nershav",
@@ -257,7 +275,7 @@ export const menuCatalog = [
       },
       {
         title: "Лента",
-        link: "metizi-prokat/lenta-steel",
+        link: "cherniy-prokat/lenta-steel",
         img: "lentaZincCatalog",
         metaData: "Прокат",
       },
